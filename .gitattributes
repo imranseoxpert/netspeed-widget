@@ -1,0 +1,2 @@
+# Keep Windows line endings in the batch file exactly as committed
+*.bat -text

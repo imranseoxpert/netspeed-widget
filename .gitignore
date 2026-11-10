@@ -1,0 +1,6 @@
+# Build output - the .exe is published on the Releases page instead
+*.exe
+*.exe.config
+*.pdb
+bin/
+obj/
